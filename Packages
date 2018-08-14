@@ -25,3 +25,17 @@ Description: Essential changes for an essential iOS.
 Name: Sential
 Author: CupOfTea
 Depiction: https://nquicx.github.io/repo/depictions/com.arbata.sential
+
+Package: com.arbata.lockpluspro
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Nquicx
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.arbata.lockpluspro.deb
+Size: 11572918
+MD5sum: 0318e568ae11779fd798c3f2c71dcd23
+Description: Best lockscreen customization tweak ever!
+Name: Sential
+Author: CupOfTea
+Depiction: https://nquicx.github.io/repo/depictions/com.arbata.lockpluspro
